@@ -79,6 +79,7 @@ Building scalable web applications and backend systems while exploring system de
 ---
 
 ##  GitHub Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PoTaTo-boy-00&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api?username=PoTaTo-boy-00\&theme=tokyonight\&show_icons=true\&hide_border=true)
 

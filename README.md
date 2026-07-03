@@ -78,11 +78,10 @@ Building scalable web applications and backend systems while exploring system de
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ---
 
-##  GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PoTaTo-boy-00&theme=tokyonight)
+##  GitHub Stats 
 
-![](https://github-readme-stats.vercel.app/api?username=PoTaTo-boy-00\&theme=tokyonight\&show_icons=true\&hide_border=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=PoTaTo-boy-00&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PoTaTo-boy-00\&theme=tokyonight\&layout=compact\&hide_border=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PoTaTo-boy-00&layout=compact&theme=tokyonight)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PoTaTo-boy-00\&theme=tokyonight\&hide_border=true)

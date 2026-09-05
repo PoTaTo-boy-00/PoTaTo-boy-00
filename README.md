@@ -80,8 +80,6 @@ Building scalable web applications and backend systems while exploring system de
 
 ##  GitHub Stats 
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=PoTaTo-boy-00&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PoTaTo-boy-00&layout=compact&theme=tokyonight)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PoTaTo-boy-00\&theme=tokyonight\&hide_border=true)
